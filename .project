@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 <<<<<<< HEAD
-	<name>FiapRide</name>
-=======
 	<name>fiap-poo-main</name>
+=======
+	<name>FiapRide</name>
 >>>>>>> 3131704 (aula 03 - definição de get e set)
 	<comment></comment>
 	<projects>
 	</projects>
 	<buildSpec>
 <<<<<<< HEAD
+	</buildSpec>
+	<natures>
+=======
 		<buildCommand>
 			<name>org.eclipse.jdt.core.javabuilder</name>
 			<arguments>
@@ -18,9 +21,6 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
-=======
-	</buildSpec>
-	<natures>
 >>>>>>> 3131704 (aula 03 - definição de get e set)
 	</natures>
 </projectDescription>
